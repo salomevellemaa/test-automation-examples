@@ -1,0 +1,11 @@
+query("button")
+query("button")
+reinstall_apps
+start_test_server_in_background
+query("button")
+query("button")
+query("button")exit
+
+calabash-android run resigned-selendroid-test-app-0.17.0.apk
+calabash-android resign resigned-selendroid-test-app-0.17.0.apk
+exit

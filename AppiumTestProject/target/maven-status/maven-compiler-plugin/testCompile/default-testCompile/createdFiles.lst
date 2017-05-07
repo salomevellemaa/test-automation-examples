@@ -1,0 +1,9 @@
+appium\tutorial\android\AutomatingASimpleActionTest.class
+appium\tutorial\android\page\HomePage.class
+appium\tutorial\android\PageObjectPatternTest.class
+appium\tutorial\android\util\AppiumTest.class
+appium\tutorial\android\util\Helpers.class
+appium\tutorial\android\page\AccessibilityPage.class
+appium\tutorial\android\page\AnimationPage.class
+appium\tutorial\android\util\SelendroidTest.class
+appium\tutorial\android\util\AppiumTest$1.class
